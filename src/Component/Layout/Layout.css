@@ -1,0 +1,27 @@
+/* Add this CSS to your existing styles */
+
+.bg-body-tertiary {
+    background-color: #F2ECBE !important; /* Light beige background for the Navbar */
+  }
+  
+  .navbar-dark .navbar-toggler-icon {
+    background-color: #9A3B3B; /* Dark red color for the Navbar toggler icon */
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: #ffffff; /* White text color for the Navbar links */
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: #61dafb; /* Blue text color for Navbar links on hover */
+  }
+  
+  .navbar-dark .navbar-brand {
+    color: #ffffff; /* White text color for the Navbar brand */
+  }
+  
+  .navbar-dark .navbar-brand:hover {
+    color: #61dafb; /* Blue text color for Navbar brand on hover */
+  }
+  
+  

@@ -1,0 +1,38 @@
+.card{
+    background-color: #F2ECBE;
+    color: #9A3B3B;
+    padding: 20px;
+    margin: 32px;
+    align-items: center;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.title{
+    text-align: center;
+}
+/* Add this CSS to your existing styles */
+
+/* Primary Button */
+.btn-primary {
+    background-color: #C08261; /* Darker red background for the primary button */
+    border-color: #C08261; /* Darker red border color */
+    color: #ffffff; /* White text color for the primary button */
+  }
+  
+  /* Hover state for the primary button */
+  .btn-primary:hover {
+    background-color: #9A3B3B; /* Dark red background on hover */
+    border-color: #9A3B3B; /* Dark red border color on hover */
+    color: #ffffff; /* White text color on hover */
+  }
+  
+  /* Active state for the primary button */
+  .btn-primary:active {
+    background-color: #9A3B3B; /* Dark red background on click */
+    border-color: #9A3B3B; /* Dark red border color on click */
+    color: #ffffff; /* White text color on click */
+  }
+  
+  
